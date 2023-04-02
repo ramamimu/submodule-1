@@ -2,9 +2,13 @@
 
 `git clone --recurse-submodules https://github.com/chaconinc/MainProject`
 
+## How to First Update
+
+`git submodule update --init --recursive`
+
 ## How to Update Sub-module
 
-`git submodule update --remote DbConnector`
+`git submodule update --remote <remote_name>`
 
 ## How to Pull Sub-module
 
