@@ -1,0 +1,3 @@
+[submodule "submodule-2"]
+	path = submodule-2
+	url = https://github.com/ramamimu/submodule-2.git
